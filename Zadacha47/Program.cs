@@ -1,4 +1,6 @@
-﻿Console.WriteLine("Введите количество строк");
+﻿//Задайте двумерный массив размером m×n, заполненный случайными вещественными числами.
+
+Console.WriteLine("Введите количество строк");
 int linesVol = int.Parse(Console.ReadLine());
 Console.WriteLine("Введите количество столбцов");
 int columnsVol = int.Parse(Console.ReadLine());
